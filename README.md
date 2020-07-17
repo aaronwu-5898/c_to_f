@@ -1,1 +1,1 @@
-# c_to_f
+# this is a program that transfer C degree to F degree
